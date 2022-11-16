@@ -185,8 +185,8 @@ Project Link: [https://github.com/vinpel/flutter_sample_api_jwt](https://github.
 [issues-url]: https://github.com/vinpel/flutter_sample_api_jwt/issues
 [license-shield]: https://img.shields.io/github/license/vinpel/flutter_sample_api_jwt.svg?style=for-the-badge
 [license-url]: https://github.com/vinpel/flutter_sample_api_jwt/blob/master/LICENSE.txt
-
-
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/vincent-p%C3%A9lisset/
 ## Flutter packages
 
 
